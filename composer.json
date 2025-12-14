@@ -1,5 +1,5 @@
 {
-    "name": "sensiolabs/gotenberg-bundle",
+    "name": "leo-moshko/gotenberg-bundle",
     "description": "Gotenberg support for Symfony",
     "keywords": ["gotenberg", "symfony", "pdf", "screenshot", "office", "bundle"],
     "type": "symfony-bundle",
